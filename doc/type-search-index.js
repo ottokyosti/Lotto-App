@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"fi.tuni.tamk.tiko.ottokyosti.util","l":"Arrays"},{"p":"fi.tuni.tamk.tiko.ottokyosti","l":"Main"},{"p":"fi.tuni.tamk.tiko.ottokyosti.util","l":"Math"},{"p":"fi.tuni.tamk.tiko.ottokyosti.util","l":"MyConsole"}];updateSearchResults();
