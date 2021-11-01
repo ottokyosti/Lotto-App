@@ -4,4 +4,6 @@ This project's goal was to develop an application that acts as a Lotto machine. 
 ## Download
 Download the directory src/fi/tuni/tamk/tiko/ottokyosti to your computer and run it with Java. You have to have Java version 7 or newer.
 ## Running the application
-You can run the application by opening the command line, going to the directory one above src-directory and entering the commands 'javac src/fi/tuni/tamk/tiko/ottokyosti/Main.java' and 'java src/fi/tuni/tamk/tiko/ottokyosti/Main'.
+You can run the application by opening the command line in src-directory and entering the commands 'javac fi/tuni/tamk/tiko/ottokyosti/Main.java' and 'java fi/tuni/tamk/tiko/ottokyosti/Main'.
+## Features
+You can easily change the number of numbers that the user have
